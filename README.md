@@ -1,6 +1,6 @@
 # crawlerstepbystep
 
-本项目仅作为爬虫入门联系，来更好熟悉Google人脸爬取流程
+本项目仅作为爬虫入门练习，来更好熟悉Google人脸爬取流程
 
 其中以项目 `Lab3_2: IMDb黑人女演员名单爬取` 作为主要姓名信息爬取操作，图像爬取使用google_images_download包更加全面
 ## 服务器配置
@@ -116,3 +116,11 @@ lsof -i:8090
 netstat -anpt |grep 7779
 ```
 
+
+## To Do
+
+
+
+- UnicodeDecodeError问题
+
+- Dlib错误图片自动忽略
