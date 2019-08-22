@@ -1,0 +1,30 @@
+{"bookname": "平凡的世界：全三册", "author": "路遥", "press": "北京十月文艺出版社", "price": "97.20", "shopname": "新经典文化京东自营店"}
+{"bookname": "人生海海（莫言盛赞！董卿、高晓松反复阅读，杨洋、李健倾力推荐！2019麦家新作）", "author": "麦家", "press": "北京十月文艺出版社", "price": "55.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "余华经典作品集（全5册）", "author": "余华", "press": "北京出版集团北京十月文艺出版社", "price": "221.50", "shopname": "新经典文化京东自营店"}
+{"bookname": "人生", "author": "路遥", "press": "北京十月文艺出版社", "price": "25.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "万寿寺", "author": "王小波", "press": "北京十月文艺出版社", "price": "31.80", "shopname": "新经典文化京东自营店"}
+{"bookname": "文学名著：四世同堂", "author": "老舍", "press": "北京十月文艺出版社", "price": "45.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "倾城之恋", "author": "张爱玲", "press": "北京十月文艺出版社", "price": "49.50", "shopname": "新经典文化京东自营店"}
+{"bookname": "三毛全集02：撒哈拉的故事", "author": "三毛", "press": "北京十月文艺出版社", "price": "35.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "活着", "author": "余华", "press": "北京十月文艺出版社", "price": "24.70", "shopname": "新经典文化京东自营店"}
+{"bookname": "一只特立独行的猪", "author": "王小波", "press": "北京十月文艺出版社", "price": "23.30", "shopname": "新经典文化京东自营店"}
+{"bookname": "穆斯林的葬礼(2015版)", "author": "霍达", "press": "北京出版集团公司", "price": "37.30", "shopname": "新经典文化京东自营店"}
+{"bookname": "妞妞：一个父亲的札记", "author": "周国平", "press": "北京十月文艺出版社", "price": "42.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "三毛全集01：雨季不再来", "author": "三毛", "press": "北京十月文艺出版社", "price": "35.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "平凡的世界：普及本", "author": "路遥", "press": "北京十月文艺出版社", "price": "29.90", "shopname": "爱心树童书自营旗舰店"}
+{"bookname": "王小波杂文（套装共4册）", "author": "王小波", "press": "北京十月文艺出版社", "price": "144.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "【新华正版】平凡的世界 全三册 路遥 ", "author": "路遥著", "press": "北京出版集团北京十月文艺出版社", "price": "74.50", "shopname": "文轩网旗舰店"}
+{"bookname": "张爱玲经典小说集（全五卷）", "author": "张爱玲", "press": "北京出版集团北京十月文艺出版社", "price": "193.50", "shopname": "个商家"}
+{"bookname": "沉默的大多数", "author": "王小波", "press": "北京十月文艺出版社", "price": "23.30", "shopname": "新经典文化京东自营店"}
+{"bookname": "阿来：云中记", "author": "阿来", "press": "北京十月文艺出版社", "price": "55.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "兄弟", "author": "余华", "press": "北京十月文艺出版社", "price": "40.80", "shopname": "新经典文化京东自营店"}
+{"bookname": "三毛全集05：梦里花落知多少", "author": "三毛", "press": "北京十月文艺出版社", "price": "35.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "流言", "author": "张爱玲", "press": "北京十月文艺出版社", "price": "45.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "怨女", "author": "张爱玲", "press": "北京十月文艺出版社", "price": "55.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "黄金时代", "author": "王小波", "press": "北京十月文艺出版社", "price": "23.30", "shopname": "新经典文化京东自营店"}
+{"bookname": "文学名著：汪曾祺集：受戒", "author": "汪曾祺", "press": "北京十月文艺出版社", "price": "36.00", "shopname": "新经典文化京东自营店"}
+{"bookname": "牧羊少年奇幻之旅", "author": "保罗·柯艾略", "press": "北京出版集团公司", "price": "24.20", "shopname": "新经典文化京东自营店"}
+{"bookname": "暗算", "author": "麦家", "press": "北京十月文艺出版社", "price": "49.60", "shopname": "新经典文化京东自营店"}
+{"bookname": "路遥：早晨从中午开始", "author": "路遥", "press": "北京十月文艺出版社", "price": "14.70", "shopname": "新经典文化京东自营店"}
+{"bookname": "爱你就像爱生命", "author": "王小波", "press": "北京十月文艺出版社", "price": "23.30", "shopname": "新经典文化京东自营店"}
+{"bookname": "【新华正版】平凡的世界 全三册 路遥 ", "author": "北京十月文艺出版社", "press": "北京十月文艺出版社", "price": "74.50", "shopname": "新经典文化京东自营店"}
